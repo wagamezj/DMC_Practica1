@@ -12,7 +12,7 @@ pip install nltk
 ## Usage
 ```python
 ### Import the TextPreprocessor class
-from text_preprocessor import TextPreprocessor
+from text_processing.text_preprocessor import TextPreprocessor
 # Initialize the preprocessor with default settings
 preprocessor = TextPreprocessor()
 
